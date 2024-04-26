@@ -1,5 +1,5 @@
 <meta>
-  <info name="Clanwar_Script" author="Core" type="script" version="1.0.0" />
+  <info name="Clanwar_Script" author="mono" type="script" version="1.0.0" />
   <script src="client.lua" type="client" cache="false" />
   <script src="utils.lua" type="shared" />
   <script src="server.lua" type="server" />
